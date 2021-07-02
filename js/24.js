@@ -104,6 +104,21 @@ TweenMax.from(".arrows", 1, {
   opacity: 0,
   ease: Expo.easeInOut
 });
+const videos = document.querySelectorAll(".concept-box video");
+videos.forEach(video => {
+  video.parentElement.addEventListener("mouseover", function (video, e) {
+    video.play();
+  }.bind(false, video));
+  video.parentElement.addEventListener("mouseout", function (video, e) {
+    video.pause();
+  }.bind(false, video));
+  video.parentElement.addEventListener("touchstart", function (video) {
+    video.play();
+  }.bind(false, video));
+  video.parentElement.addEventListener("touchend", function (video) {
+    video.pause();
+  }.bind(false, video));
+});
 
 /***/ })
 

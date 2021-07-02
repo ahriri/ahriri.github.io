@@ -433,6 +433,13 @@
   "img/media/newsbtc.webp": "/img/media/newsbtc.webp",
   "img/media/yfinance.png": "/img/media/yfinance.png",
   "img/media/yfinance.webp": "/img/media/yfinance.webp",
+  "img/metamask/add-funds.png": "/img/metamask/add-funds.png",
+  "img/metamask/add-funds2.png": "/img/metamask/add-funds2.png",
+  "img/metamask/apps-store.png": "/img/metamask/apps-store.png",
+  "img/metamask/google-play.png": "/img/metamask/google-play.png",
+  "img/metamask/metamask.png": "/img/metamask/metamask.png",
+  "img/metamask/swap-keanu.png": "/img/metamask/swap-keanu.png",
+  "img/metamask/uniswap.png": "/img/metamask/uniswap.png",
   "img/mqdefault_6s.webp": "/img/mqdefault_6s.webp",
   "img/parachain5.mtl": "/img/parachain5.mtl",
   "img/parachain5.obj": "/img/parachain5.obj",
@@ -548,5 +555,11 @@
   "img/wave-dark@2x.svg": "/img/wave-dark@2x.svg",
   "img/wave.svg": "/img/wave.svg",
   "img/wave@2x.svg": "/img/wave@2x.svg",
-  "site.webmanifest": "/site.webmanifest"
+  "site.webmanifest": "/site.webmanifest",
+  "video/.DS_Store": "/video/.DS_Store",
+  "video/21234904_gates-to-heaven_by_viz-artis_preview.mp4": "/video/21234904_gates-to-heaven_by_viz-artis_preview.mp4",
+  "video/22516878_classic-columns-background-2_by_adil777_preview.mp4": "/video/22516878_classic-columns-background-2_by_adil777_preview.mp4",
+  "video/31819416_diamond-in-a-cube-4k_by_olscher_preview.mp4": "/video/31819416_diamond-in-a-cube-4k_by_olscher_preview.mp4",
+  "video/32637398_diamond-4k_by_toboggan2_preview.mp4": "/video/32637398_diamond-4k_by_toboggan2_preview.mp4",
+  "video/neon-vj-pillars-JZ7HVL8.mp4": "/video/neon-vj-pillars-JZ7HVL8.mp4"
 }
